@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">
     Mini Financial System
 </h1>
@@ -11,3 +12,6 @@
     <li>Fill in the simultaneous data</li>
 </ul>
 
+=======
+# mini-financial-system-reactjs
+>>>>>>> ae653fd64556a446cbea1b93db58b4fdd66ada6c
